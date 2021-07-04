@@ -8,6 +8,8 @@
     <img src="https://github.com/farkoo/Circle-Hough-Transform/blob/master/Result_01_test.png" alt="Forest" width=400 height=400>
   </div>
 </div>
+<html>
+
 <head>
     <style>
         .images {
@@ -41,3 +43,5 @@
         
     </div>
 </body>
+</html>
+
