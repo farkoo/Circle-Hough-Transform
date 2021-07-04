@@ -2,7 +2,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/farkoo/Circle-Hough-Transform/blob/master/01_test.png)  |  ![](https://github.com/farkoo/Circle-Hough-Transform/blob/master/Result_01_test.png)
+![](https://github.com/farkoo/Circle-Hough-Transform/blob/master/01_test.png =250x250)  |  ![](https://github.com/farkoo/Circle-Hough-Transform/blob/master/Result_01_test.png =250x250)
 
 <div class="row">
   <div class="column">
