@@ -7,5 +7,23 @@ Original image             |  After CHT
 ## My method's digram:
 <p align=center>
   <img src="https://github.com/farkoo/Circle-Hough-Transform/blob/master/CHT%20diagram.png">
-  
 </p>
+
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Circle-Hough-Transform/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
+
