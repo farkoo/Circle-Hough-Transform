@@ -6,7 +6,7 @@ Original image             |  After CHT
 
 ## My method's digram:
 <p align=center>
-  <img src="https://github.com/farkoo/Circle-Hough-Transform/blob/master/CHT%20diagram.png">
+  <img src="https://github.com/farkoo/Circle-Hough-Transform/blob/master/CHT-diagram.png">
 </p>
 
 
